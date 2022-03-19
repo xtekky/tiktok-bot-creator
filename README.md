@@ -1,4 +1,4 @@
-# ⚠️ STILL UNDER DEVELOPEMENT - v2.1-beta⚠️
+# ⚠️ DEPRECATED - blocked by TikTok⚠️
 - ### Code may not work
 ### DM me if you have any questions: 
 - 📫 Discord: [xtekky#9031](https://discord.gg/)
