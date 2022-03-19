@@ -1,5 +1,5 @@
 # ⚠️ DEPRECATED - blocked by TikTok⚠️
-- ### Code may not work
+- ## NEW [ZEFOY SCRIPT](https://github.com/xtekky/zefoy)
 ### DM me if you have any questions: 
 - 📫 Discord: [xtekky#9031](https://discord.gg/)
 - 📲 Telegram: [t.me/xtekky](https://t.me/xtekky)
